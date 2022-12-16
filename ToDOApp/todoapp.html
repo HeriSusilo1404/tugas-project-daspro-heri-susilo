@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <title>vue</title>
+  </head>
+  <body>
+    <h1>TO DO APP</h1>
+    <div id="todo-list">
+      <form v-on:submit.prevent="addNewTodo">
+        <input v-model="newTodoText" id="new-todo" placeholder="masukkan list baru"/>
+        <button>Tambah</button>
+      </form>
+      <ul>
+        <li
+          is="todo-item"
+          v-for="(todo, index) in todos"
+          v-bind:title="todo"
+          v-on:remove="todos.splice(index, 1)"
+        ></li>
+      </ul>
+    </div>
+    <script>
+      Vue.component("todo-item", {
+        template:
+          "\
+    <li>\
+      {{ title }}\
+      <button v-on:click=\"$emit('remove')\">Hapus</button>\
+    </li>\
+  ",
+        props: ["title"],
+      });
+      new Vue({
+        el: "#todo-list",
+        data: {
+          newTodoText: "",
+          todos: ['Mandi'],
+        },
+        methods: {
+          addNewTodo: function () {
+            this.todos.push(this.newTodoText);
+            this.newTodoText = "";
+          },
+        },
+      });
+    </script>
+  </body>
+</html>

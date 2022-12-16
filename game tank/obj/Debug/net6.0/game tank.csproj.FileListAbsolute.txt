@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\game tank\bin\Debug\net6.0\game tank.exe
+C:\Users\ASUS\Desktop\game tank\bin\Debug\net6.0\game tank.deps.json
+C:\Users\ASUS\Desktop\game tank\bin\Debug\net6.0\game tank.runtimeconfig.json
+C:\Users\ASUS\Desktop\game tank\bin\Debug\net6.0\game tank.dll
+C:\Users\ASUS\Desktop\game tank\bin\Debug\net6.0\game tank.pdb
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\game tank.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\game tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\game tank.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\game tank.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\game tank.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\game tank.dll
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\refint\game tank.dll
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\game tank.pdb
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\game tank.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\game tank\obj\Debug\net6.0\ref\game tank.dll

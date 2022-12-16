@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\dasar pemograman\bin\Debug\net6.0\dasar pemograman.exe
+C:\Users\ASUS\Desktop\dasar pemograman\bin\Debug\net6.0\dasar pemograman.deps.json
+C:\Users\ASUS\Desktop\dasar pemograman\bin\Debug\net6.0\dasar pemograman.runtimeconfig.json
+C:\Users\ASUS\Desktop\dasar pemograman\bin\Debug\net6.0\dasar pemograman.dll
+C:\Users\ASUS\Desktop\dasar pemograman\bin\Debug\net6.0\dasar pemograman.pdb
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\dasar pemograman.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\dasar pemograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\dasar pemograman.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\dasar pemograman.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\dasar pemograman.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\dasar pemograman.dll
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\refint\dasar pemograman.dll
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\dasar pemograman.pdb
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\dasar pemograman.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\dasar pemograman\obj\Debug\net6.0\ref\dasar pemograman.dll

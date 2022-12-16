@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Game Adventure\bin\Debug\net6.0\game batlle.exe
+C:\Users\ASUS\Desktop\Game Adventure\bin\Debug\net6.0\game batlle.deps.json
+C:\Users\ASUS\Desktop\Game Adventure\bin\Debug\net6.0\game batlle.runtimeconfig.json
+C:\Users\ASUS\Desktop\Game Adventure\bin\Debug\net6.0\game batlle.dll
+C:\Users\ASUS\Desktop\Game Adventure\bin\Debug\net6.0\game batlle.pdb
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\game batlle.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\game batlle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\game batlle.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\game batlle.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\game batlle.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\game batlle.dll
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\refint\game batlle.dll
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\game batlle.pdb
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\game batlle.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Game Adventure\obj\Debug\net6.0\ref\game batlle.dll

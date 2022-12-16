@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\tebak kata.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\tebak kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\tebak kata.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\tebak kata.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\tebak kata.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\tebak kata\bin\Debug\net6.0\tebak kata.exe
+C:\Users\ASUS\Desktop\tebak kata\bin\Debug\net6.0\tebak kata.deps.json
+C:\Users\ASUS\Desktop\tebak kata\bin\Debug\net6.0\tebak kata.runtimeconfig.json
+C:\Users\ASUS\Desktop\tebak kata\bin\Debug\net6.0\tebak kata.dll
+C:\Users\ASUS\Desktop\tebak kata\bin\Debug\net6.0\tebak kata.pdb
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\tebak kata.dll
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\refint\tebak kata.dll
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\tebak kata.pdb
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\tebak kata.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\tebak kata\obj\Debug\net6.0\ref\tebak kata.dll
